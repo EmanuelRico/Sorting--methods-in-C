@@ -1,4 +1,3 @@
-# Tipos-de-metodos-de-ordenamiento
-Lenguaje C
-
-Diferentes tipos de Ordenamiento en lenguaje C
+# Sorthing-Methods-in-C
+My name is Emanuel Rico Martinez, actually I study in Universidad Autónoma de San Luis Potosí, Mexico. This is a
+homework of the Data Structure subject, the program works with C.
